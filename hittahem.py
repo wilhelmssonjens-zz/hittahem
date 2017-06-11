@@ -19,8 +19,6 @@ class Apartment(object):
         self.publish_month = get_publish_month(soup)
         self.publish_year = get_publish_year(soup)
 
-        print(soup)
-
 
 def month_to_num(month):
     calendar = {'januari': '01', 'Jan': '01', 'februari': '02', 'Feb': '02', 'mars': '03', 'Mar': '03',
