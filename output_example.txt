@@ -1,0 +1,996 @@
+<table class="list imagelist withdata" data-count="" data-query="" id="objectlist">
+<tbody><tr class="progress" style="display: none;"><td colspan="7"><img alt="Laddar" src="https://nya.boplats.se/static/loader.gif"/></td></tr>
+<tr class="tableheader">
+<th class="rent " data-attribute="rent">Rent/Comm</th><th class="area " data-attribute="area">Area</th><th class="squaremeters " data-attribute="squaremeters">Size</th><th class="moveinTime " data-attribute="moveinTime">Movein</th><th class="startPublishTime " data-attribute="startPublishTime">Publ.</th><th class="criteria " data-attribute="criteria"> </th><th class="objectphoto " data-attribute="objectphoto"> </th>
+</tr>
+<tr class="emptylist" style="display: none;"><td colspan="7"><div class="information notice"><p>No search results.</p><p>Try changing the criteria, or <a href="https://nya.boplats.se/sok?itemtype=1hand" id="entitylink">show all <span id="entitydescription">First hand contracts</span></a>.</p></div></td></tr>
+<tr class="errorlist hidden"><td colspan="7"><div class="information error"><p>Some value you have entered in the search tool is invalid.</p><p>Try searching again using numeric values for rent and/or price or <a href="https://nya.boplats.se/sok?itemtype=1hand" id="entitylink">show all <span id="entitydescription">First hand contracts</span></a>.</p></div></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A73FBFEF3179E0003B4F7">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A73FBFED617920003BC83?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,292 SEK</p>
+</div>
+<div class="area">
+<p class="area">Norra Kortedala</p>
+<p class="address">Annandagsgatan 16</p>
+<p class="floor">Stairs 1 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>70.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A73FAF7FBFA480003E145">
+<div class="objectphoto">
+<img class="photo" height="80" src="https://nya.boplats.se/static/avatar_1hand_thumb.jpg" width="104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">5,590 SEK</p>
+</div>
+<div class="area">
+<p class="area">Rambergsstaden</p>
+<p class="address">Rambergsvägen 19E</p>
+<p class="floor">Stairs 2 of 2</p>
+</div>
+<div class="squaremeters">
+<p><b>71.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Jul</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593AA757FCA39C9300035D9C">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593AA757FC9E9C910003F97E?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">4,409 SEK</p>
+</div>
+<div class="area">
+<p class="area">Mölndals Innerstad</p>
+<p class="address">Prytzgatan 15</p>
+<p class="floor">Stairs 1 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>52.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">19 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593944F703F71A090003C7A6">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593944F703F01A0700038D18?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">7,467 SEK</p>
+</div>
+<div class="area">
+<p class="area">Eklanda</p>
+<p class="address">Eklanda Hage 40</p>
+<p class="floor">Stairs 2 of 2</p>
+</div>
+<div class="squaremeters">
+<p><b>76.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593944E3FCC972D50003314A">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/59394A8AFDF2C66700033C38?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">8,537 SEK</p>
+</div>
+<div class="area">
+<p class="area">Åby</p>
+<p class="address">Katrinebergsgatan 8</p>
+<p class="floor">Stairs 3 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>67.5 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593944D1FEB93F69000384C6">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593944D1FEAF3F6700035738?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">9,293 SEK</p>
+</div>
+<div class="area">
+<p class="area">Åby</p>
+<p class="address">Katrinebergsgatan 4 B</p>
+<p class="floor">Stairs 1 of 5</p>
+</div>
+<div class="squaremeters">
+<p><b>78.5 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593944BFFC4F170200036293">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593944BFFC4717000003890D?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">4,332 SEK</p>
+</div>
+<div class="area">
+<p class="area">Bosgården</p>
+<p class="address">Vänortsgatan 5 B</p>
+<p class="floor">Stairs 4 of 4</p>
+</div>
+<div class="squaremeters">
+<p><b>40.0 m²</b></p>
+<p>1 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593907F9FFAEFF1200035103">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593907F9FFAFFF130003951C?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">4,800 SEK</p>
+</div>
+<div class="area">
+<p class="area">Landala</p>
+<p class="address">Karl Gustavsgatan  40</p>
+<p class="floor">Stairs 6 of 7</p>
+</div>
+<div class="squaremeters">
+<p><b>38.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">10 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A9C14FEEA88010003584E">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A9C140206880700037718?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">9,223 SEK</p>
+</div>
+<div class="area">
+<p class="area">Krokslätt M</p>
+<p class="address">Gustavsbergsgatan  2</p>
+<p class="floor">Stairs 3 of 5</p>
+</div>
+<div class="squaremeters">
+<p><b>70.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">15 Jul</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A9967FC77142400037989">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A9967040D14280003BF65?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,726 SEK</p>
+</div>
+<div class="area">
+<p class="area">Stampen</p>
+<p class="address">Stampgatan 40</p>
+<p class="floor">Stairs 3 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>44.0 m²</b></p>
+<p>1 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">15 Jul</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A94A7F808699F00039EE0">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A94A7FB0769A400038C09?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">3,300 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Blidvädersgatan  44</p>
+<p class="floor">Stairs 7 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>23.0 m²</b></p>
+<p>1 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A7CB703E5F62300037E4C">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A7CB704BAF62B00031BE4?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,452 SEK</p>
+</div>
+<div class="area">
+<p class="area">Askim</p>
+<p class="address">Pilegården 2C</p>
+</div>
+<div class="squaremeters">
+<p><b>41.0 m²</b></p>
+<p>1 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A77C705B7F96C0003BC41">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A77C70696F97400030939?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">8,837 SEK</p>
+</div>
+<div class="area">
+<p class="area">Askim</p>
+<p class="address">Pilegården 4B</p>
+<p class="floor">Stairs 2 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>65.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A6A5EFB7094860003574F">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A6A5EFC78948A00032FCB?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">5,600 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Friskväderstorget 3</p>
+<p class="floor">Stairs 7 of 7</p>
+</div>
+<div class="squaremeters">
+<p><b>61.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/59097A40036FD9370003E5A8">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/59097A40F997D93E00036657?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,693 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Köldgatan  23</p>
+</div>
+<div class="squaremeters">
+<p><b>59.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A686B06EEF34C00039861">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A686B07D0F35700034A08?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">12,003 SEK</p>
+</div>
+<div class="area">
+<p class="area">Mölndals Innerstad</p>
+<p class="address">Storgatan  33</p>
+<p class="floor">Stairs 8 of 15</p>
+</div>
+<div class="squaremeters">
+<p><b>74.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Jul</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"><span class="precondition">Newly built </span></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A67060537F55E0003D937">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A6706F9FFF56200035733?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">7,428 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Blåsvädersgatan 18</p>
+<p class="floor">Stairs 5 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>81.0 m²</b></p>
+<p>4 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A66790139068900036926">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A6679081406900003A17D?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">7,392 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Köldgatan  17</p>
+<p class="floor">Stairs 2 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>63.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/56F25B02F7E2A9A600036D2F">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/56F25B02F8E9A9AB0003F664?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,000 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Sommarvädersgatan 4</p>
+<p class="floor">Stairs 1 of 10</p>
+</div>
+<div class="squaremeters">
+<p><b>78.0 m²</b></p>
+<p>4 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2016</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A64BAF9A964600003E7AD">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A64BAFF4D64640003A549?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">9,969 SEK</p>
+</div>
+<div class="area">
+<p class="area">Krokslätt</p>
+<p class="address">Norra Krokslättsgatan  2</p>
+<p class="floor">Stairs 5 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>79.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A62F7044A9537000359A8">
+<div class="objectphoto">
+<img class="photo" height="80" src="https://nya.boplats.se/static/avatar_1hand_thumb.jpg" width="104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,434 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Blåsvädersgatan 22</p>
+<p class="floor">Stairs 2 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>71.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/592FE803F9D830C10003D48E">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A1FA1F9730E32000312E3?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,607 SEK</p>
+</div>
+<div class="area">
+<p class="area">Högsbotorp</p>
+<p class="address">Bankogatan 22</p>
+<p class="floor">Stairs 2 of 4</p>
+</div>
+<div class="squaremeters">
+<p><b>65.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Jul</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"><span class="precondition">Accessible apartment</span></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/592FE7FF0077294E0003FBC7">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A1F9D00BEEC3800032955?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,607 SEK</p>
+</div>
+<div class="area">
+<p class="area">Högsbotorp</p>
+<p class="address">Bankogatan 20</p>
+<p class="floor">Stairs 1 of 4</p>
+</div>
+<div class="squaremeters">
+<p><b>65.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"><span class="precondition">Accessible apartment</span></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A6194FF49E52C00030C81">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A6194FA81E5330003C37C?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">4,839 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Köldgatan  24</p>
+</div>
+<div class="squaremeters">
+<p><b>39.0 m²</b></p>
+<p>1 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A6017F905FAAF00035510">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A611EFFD7D81B000303B4?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">9,997 SEK</p>
+</div>
+<div class="area">
+<p class="area">Kvillebäcken</p>
+<p class="address">Solventilsgatan 20</p>
+<p class="floor">Stairs 7 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>58.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A54D507073BBC000338F1">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A54D507BD3BC400030FE9?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">8,423 SEK</p>
+</div>
+<div class="area">
+<p class="area">Askim</p>
+<p class="address">Pilegården 5 D</p>
+<p class="floor">Stairs 3 of 3</p>
+</div>
+<div class="squaremeters">
+<p><b>64.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Sep</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A5E61FA289BE30003D78C">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A5E61FA299BE4000335C9?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">9,636 SEK</p>
+</div>
+<div class="area">
+<p class="area">Kvillebäcken</p>
+<p class="address">Långängen 14</p>
+<p class="floor">Stairs 7 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>53.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A54F401BF10AC00035901">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A54F401C010AD0003BD12?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">7,506 SEK</p>
+</div>
+<div class="area">
+<p class="area">Jonsered</p>
+<p class="address">Stärteredsvägen 27</p>
+<p class="floor">Stairs 1 of 4</p>
+</div>
+<div class="squaremeters">
+<p><b>57.0 m²</b></p>
+<p>2 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A530DFF0A76C4000324E9">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A530DFF0D76C50003B89A?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">12,031 SEK</p>
+</div>
+<div class="area">
+<p class="area">Kvillebäcken</p>
+<p class="address">Fjärdingsgatan 27</p>
+<p class="floor">Stairs 4 of 10</p>
+</div>
+<div class="squaremeters">
+<p><b>82.0 m²</b></p>
+<p>4 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">1 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr class="item imageitem"><td colspan="7"><a href="https://nya.boplats.se/objekt/1hand/593A5229FBB3AFB500033AEA">
+<div class="objectphoto">
+<img class="photo" src="https://nya.boplats.se/bilder/1handPicture/593A5229FC5FAFBB00039A94?w=104"/>
+</div>
+<div>
+<div class="rent">
+<p class="rent">6,400 SEK</p>
+</div>
+<div class="area">
+<p class="area">Södra Biskopsgården</p>
+<p class="address">Blidvädersgatan  50</p>
+<p class="floor">Stairs 2 of 8</p>
+</div>
+<div class="squaremeters">
+<p><b>68.0 m²</b></p>
+<p>3 room(s)</p>
+</div>
+<div class="moveindate">
+<p class="day">7 Aug</p>
+<p class="year">2017</p>
+</div>
+<div class="publishdate">
+<p class="day">9 Jun</p>
+<p class="year">2017</p>
+</div>
+<div class="criteria">
+<p><img alt="The object has terms" src="https://nya.boplats.se/static/result_question.png"/>terms</p>
+</div>
+<div class="objectsummary">
+<span class="objectproperties"></span>
+</div>
+</div>
+</a></td></tr>
+<tr style="display: table-row;"><td class="showmore" colspan="7"><button class="showmore" name="showmore" type="submit" value="showmore">Show more <img src="https://nya.boplats.se/static/arrow_down.png"/></button></td></tr>
+</tbody></table>
