@@ -27,6 +27,14 @@ class Apartment(object):
         address = soup.find_all("p", 'address')
         return address[0].get_text()
 
+    def get_location(soup):
+        geolocator = GoogleV3()
+        area = soup.find_all("p", 'area')
+        address = soup.find_all("p", 'address')
+        tmpstring = address[0].get_text() + " " + area[0].get_text()
+        location = geolocator.geocode(tmpstring)
+        return location
+
     def get_floor(soup):
         floor = soup.find_all('p', 'floor')
         return re.findall(r'\d+', floor[0].get_text())[0]
@@ -100,16 +108,29 @@ def separate_boplats_data(boplats_data):
         entries_list.append(link)
     return entries_list
 
+def get_apartment_list(apartment_datalist):
+    # takes the list of <tr>...</tr> data-elements and creates apartmentobjects
+    apartment_list = []
+    for apartment_data in apartment_datalist:
+        try:
+            apartment_list.append(Apartment(apartment_data))
+        except:
+            print("Fel på apartment_data-element")
 
-def main():
+    return apartment_list
+
+main():
     boplats = "https://nya.boplats.se/sok#itemtype=1hand"
     # boplats_data = read_boplats(boplats)
     # Tmp file read pga slow to get data from boplats everytime
     f = open('output_example.txt', "r")
     boplats_data = BeautifulSoup(f, "html.parser")
     aba = separate_boplats_data(boplats_data)
-    print(aba[30])
+    print(aba[0])
+    apartment_list = get_apartment_list(aba)
+    for apartment in apartment_list:
+        print("")
+        print("Adress: " + apartment.address + " || " + "Hyra: " + str(apartment.rent) + " || " + "Antal rum: " + str(apartment.rooms))
 
-
-if __name__ == '__main__':
+if( __name__ == '__main__'):
     main()
