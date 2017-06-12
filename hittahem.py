@@ -1,14 +1,14 @@
 from bs4 import BeautifulSoup
 import requests
 import urllib3
-#import dryscrape
+import dryscrape
 import re
 
 
 class Apartment(object):
-    def __init__(self):
-        f = open("example_split", 'r')
-        soup = BeautifulSoup(f, 'html.parser')
+    def __init__(self,soup):
+        #f = open("example_split", 'r')
+        #soup = BeautifulSoup(f, 'html.parser')
         self.rent = Apartment.get_rent(soup)
         self.address = Apartment.get_address(soup)
         self.floor = Apartment.get_floor(soup)
@@ -119,14 +119,14 @@ def get_apartment_list(apartment_datalist):
 
     return apartment_list
 
-main():
+def main():
     boplats = "https://nya.boplats.se/sok#itemtype=1hand"
     # boplats_data = read_boplats(boplats)
     # Tmp file read pga slow to get data from boplats everytime
     f = open('output_example.txt', "r")
     boplats_data = BeautifulSoup(f, "html.parser")
     aba = separate_boplats_data(boplats_data)
-    print(aba[0])
+    print(aba[3])
     apartment_list = get_apartment_list(aba)
     for apartment in apartment_list:
         print("")
