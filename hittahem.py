@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 from geopy.geocoders import GoogleV3
 import requests
 import urllib3
+
 import time
 import gmplot
-
-# import dryscrape
+#import dryscrape
 import re
 
 
@@ -123,6 +123,16 @@ def separate_boplats_data(boplats_data):
         entries_list.append(link)
     return entries_list
 
+def get_apartment_list(apartment_datalist):
+    # takes the list of <tr>...</tr> data-elements and creates apartmentobjects
+    apartment_list = []
+    for apartment_data in apartment_datalist:
+        try:
+            apartment_list.append(Apartment(apartment_data))
+        except:
+            print("Fel på apartment_data-element")
+
+    return apartment_list
 
 def get_apartment_list(apartment_datalist, geolocator):
     # takes the list of <tr>...</tr> data-elements and creates apartmentobjects
@@ -164,7 +174,6 @@ def main():
     f = open('output_example.txt', "r")
     boplats_data = BeautifulSoup(f, "html.parser")
     aba = separate_boplats_data(boplats_data)
-
     geolocator = GoogleV3()
     apartment_list = get_apartment_list(aba, geolocator)
     print(apartment_list[3].location.longitude)
@@ -187,6 +196,5 @@ def main():
     gmap.heatmap(ADAM[0], ADAM[1])
 
     gmap.draw("mymap.html")
-
-if __name__ == '__main__':
+if( __name__ == '__main__'):
     main()
