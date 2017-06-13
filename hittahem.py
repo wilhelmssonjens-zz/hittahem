@@ -7,7 +7,7 @@ import time
 import gmplot
 #import dryscrape
 import re
-
+import drawmap
 
 class Apartment(object):
     def __init__(self, soup, geolocator):
@@ -140,32 +140,28 @@ def get_apartment_list(apartment_datalist, geolocator):
     i = 0
     for apartment_data in apartment_datalist:
         #print(i)
-        #if i > 2:
-        try:
-            tmpapartment = Apartment(apartment_data, geolocator)
-            print("longitude = " + str(tmpapartment.location.longitude) + ". latitude = " + str(tmpapartment.location.latitude))
-            apartment_list.append(tmpapartment)
-            time.sleep(0.3)
-            print(i)
-        except:
-            print("Fel på apartment_data-element, index i = " + str(i))
-        i = i + 1
+        if i < 5:
+            try:
+                tmpapartment = Apartment(apartment_data, geolocator)
+                print("longitude = " + str(tmpapartment.location.longitude) + ". latitude = " + str(tmpapartment.location.latitude))
+                apartment_list.append(tmpapartment)
+                time.sleep(0.3)
+                print(i)
+            except:
+                print("Fel på apartment_data-element, index i = " + str(i))
+            i = i + 1
+
     return apartment_list
 
-def get_longitudes(apartment_list):
-    list = []
-    for apartment in apartment_list:
-        list.append(zip("adam", apartment.location.latitude))
+def scatter_apts(gmap, apartment_list):
 
-    return list
+    for apt in apartment_list:
+        long = apt.location.longitude
+        lat = apt.location.latitude
+        tmp = list(zip([int(float(lat)* 10**5)/(10**5), int(float(long)*10**5)/(10**5)]))
+        gmap.scatter(tmp[0], tmp[1], 'k', size=40, marker=True)
 
-
-def get_latitudes(apartment_list):
-    list = []
-    for apartment in apartment_list:
-        list.append(zip("eva", apartment.location.longitude))
-
-    return list
+    return gmap
 
 def main():
     boplats = "https://nya.boplats.se/sok#itemtype=1hand"
@@ -174,27 +170,15 @@ def main():
     f = open('output_example.txt', "r")
     boplats_data = BeautifulSoup(f, "html.parser")
     aba = separate_boplats_data(boplats_data)
-    geolocator = GoogleV3()
+    geolocator = GoogleV3(api_key = "AIzaSyCqpLTi95URusfMpGEM_pobxyq7JnXLXEY")
     apartment_list = get_apartment_list(aba, geolocator)
-    print(apartment_list[3].location.longitude)
 
     gmap = gmplot.GoogleMapPlotter(57.7, 11.9, 16)
-
-    y = ['item1', 'item2']  # list of strings
-    xdata = [57.7, 11.9] # list of numbers
-    ADAM = list(zip(xdata))
-
-
-    gmap.scatter(ADAM[0], ADAM[1],'k', size=40, marker=True)
-    #lats = get_latitudes(apartment_list)
-    #longs = get_longitudes(apartment_list)
-    #print(longs[0])
-    #gmap.plot(lats, longs, 'cornflowerblue', edge_width=10)
-    #gmap.scatter(more_lats, more_lngs, '#3B0B39', size=40, marker=False)
-    #gmap.scatter(lats, longs, 'k', marker=True)
-
-    gmap.heatmap(ADAM[0], ADAM[1])
-
+    gmap = drawmap.scatter_apts(gmap, apartment_list)
     gmap.draw("mymap.html")
+
 if( __name__ == '__main__'):
     main()
+
+
+
