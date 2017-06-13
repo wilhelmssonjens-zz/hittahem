@@ -170,7 +170,8 @@ def main():
     f = open('output_example.txt', "r")
     boplats_data = BeautifulSoup(f, "html.parser")
     aba = separate_boplats_data(boplats_data)
-    geolocator = GoogleV3(api_key = "AIzaSyCqpLTi95URusfMpGEM_pobxyq7JnXLXEY")
+    mattias_key = "AIzaSyCqpLTi95URusfMpGEM_pobxyq7JnXLXEY"
+    geolocator = GoogleV3(api_key = mattias_key)
     apartment_list = get_apartment_list(aba, geolocator)
 
     gmap = gmplot.GoogleMapPlotter(57.7, 11.9, 16)
