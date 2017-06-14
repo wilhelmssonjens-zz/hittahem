@@ -174,7 +174,7 @@ def main():
     geolocator = GoogleV3(api_key = mattias_key)
     apartment_list = get_apartment_list(aba, geolocator)
 
-    gmap = gmplot.GoogleMapPlotter(57.7, 11.9, 16)
+    gmap = gmplot.GoogleMapPlotter(57.7, 11.9, 10)
     gmap = drawmap.scatter_apts(gmap, apartment_list)
     gmap.draw("mymap.html")
 
